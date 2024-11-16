@@ -1,0 +1,133 @@
+{
+    "roštilj": [
+        {
+            "name": "Mala pljeskavica",
+            "size": "(100g)",
+            "price": 290,
+            "image": "assets/slike-hrane/Mala Pljeskavica.jpg"
+        },
+        {
+            "name": "Srednja pljeskavica",
+            "size": "(150g)",
+            "price": 340,
+            "image": "assets/slike-hrane/Srednja Pljeskavica.jpg"
+        },
+        {
+            "name": "Velika pljeskavica",
+            "size": "(200g)",
+            "price": 390,
+            "image": "assets/slike-hrane/Velika Pljeskavica.jpg"
+        },
+        {
+            "name": "Punjena pljeskavica",
+            "size": "(250g)",
+            "description": "200g mesa, 30g kačkavalja, 20g šunke",
+            "price": 460,
+            "image": "assets/slike-hrane/Punjena Pljeskavica.jpg"
+        },
+        {
+            "name": "Gurmanska pljeskavica",
+            "size": "(250g)",
+            "description": "200g mesa, 10g luka/tucana, 40g kačkavalj",
+            "price": 460,
+            "image": "assets/slike-hrane/Gurmanska Pljeskavica.jpg"
+        },
+        {
+            "name": "Gurmanska čarolija",
+            "size": "(300g)",
+            "description": "200g mesa, 40g jaje, 30g suvi vrat , 40g kačkavalj",
+            "price": 500,
+            "image": "assets/slike-hrane/Gurmanska Carolija.jpg"
+        },
+        {
+            "name": "Ćevapi",
+            "size": "(150g)",
+            "price": 340,
+            "image": "assets/slike-hrane/Cevapi.jpg"
+        },
+        {
+            "name": "Uštipci",
+            "size": "(250g)",
+            "description": "200g mesa, 5g peršun, 5g beli luk , 40g kačkavalj",
+            "price": 460,
+            "image": "assets/slike-hrane/Ustipci.jpg"
+        },
+        {
+            "name": "Kobasica",
+            "size": "(150g)",
+            "price": 350,
+            "image": "assets/slike-hrane/Kobasica.jpg"
+        },
+        {
+            "name": "Batak",
+            "size": "(200g)",
+            "price": 390,
+            "image": "assets/slike-hrane/Batak.jpg"
+        },
+        {
+            "name": "Pileće belo",
+            "size": "(200g)",
+            "price": 400,
+            "image": "assets/slike-hrane/Pilece Belo.jpg"
+        },
+        {
+            "name": "Bela vešalica",
+            "size": "(200g)",
+            "price": 500,
+            "image": "assets/slike-hrane/Bela Vesalica.jpg"
+        },
+        {
+            "name": "Svinjski vrat",
+            "size": "(200g)",
+            "price": 500,
+            "image": "assets/slike-hrane/Svinjski Vrat.jpg"
+        },
+        {
+            "name": "Hot dog",
+            "size": "(100g)",
+            "price": 250,
+            "image": "assets/slike-hrane/Hot Dog.jpg"
+        },
+        {
+            "name": "Mešano meso",
+            "size": "(1kg)",
+            "description": "200g batak, 200g pileće belo, 200g roštiljske kobasice, 200g uštipci, 200g ćevapi",
+            "price": 1800,
+            "image": "assets/slike-hrane/Mesano Meso.jpg"
+        }
+    ],
+    "prilozi": [
+        {
+            "name": "Pomfrit",
+            "size": "(200g)",
+            "price": 200
+        },
+        {
+            "name": "Lepinja / Somun",
+            "size": "",
+            "price": 60
+        }
+    ],
+    "piće": [
+        {
+            "name": "Coca Cola",
+            "size": "(0.33l)",
+            "price": 120
+        },
+        {
+            "name": "Schweppes",
+            "size": "(0.33l)",
+            "price": 120
+        },
+        {
+            "name": "Fanta",
+            "size": "(0.33l)",
+            "price": 120
+        },
+        {
+            "name": "Rosa gazirana",
+            "size": "(0.5l)",
+            "price": 80
+        }
+    ]
+}

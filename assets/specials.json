@@ -1,0 +1,47 @@
+{
+    "akcijaPice": [
+        "./assets/akcija-pice/super akcija.png",
+        "./assets/akcija-pice/super akcija (1).png",
+        "./assets/akcija-pice/super akcija (2).png",
+        "./assets/akcija-pice/super akcija (3).png",
+        "./assets/akcija-pice/super akcija (4).png",
+        "./assets/akcija-pice/super akcija (5).png",
+        "./assets/akcija-pice/super akcija (6).png",
+        "./assets/akcija-pice/super akcija (7).png",
+        "./assets/akcija-pice/super akcija (8).png",
+        "./assets/akcija-pice/super akcija (9).png",
+        "./assets/akcija-pice/super akcija (10).png",
+        "./assets/akcija-pice/super akcija (11).png",
+        "./assets/akcija-pice/super akcija (12).png"
+    ],
+    "akcijaPomfrit": [
+        "./assets/akcija-pomfrit/super akcija.png",
+        "./assets/akcija-pomfrit/super akcija (1).png",
+        "./assets/akcija-pomfrit/super akcija (2).png",
+        "./assets/akcija-pomfrit/super akcija (3).png",
+        "./assets/akcija-pomfrit/super akcija (4).png",
+        "./assets/akcija-pomfrit/super akcija (5).png",
+        "./assets/akcija-pomfrit/super akcija (6).png",
+        "./assets/akcija-pomfrit/super akcija (7).png",
+        "./assets/akcija-pomfrit/super akcija (8).png",
+        "./assets/akcija-pomfrit/super akcija (9).png",
+        "./assets/akcija-pomfrit/super akcija (10).png",
+        "./assets/akcija-pomfrit/super akcija (11).png",
+        "./assets/akcija-pomfrit/super akcija (12).png"
+    ],
+    "akcijaPicePomfrit": [
+        "./assets/akcija-pice-pomfrit/super akcija.png",
+        "./assets/akcija-pice-pomfrit/super akcija (1).png",
+        "./assets/akcija-pice-pomfrit/super akcija (2).png",
+        "./assets/akcija-pice-pomfrit/super akcija (3).png",
+        "./assets/akcija-pice-pomfrit/super akcija (4).png",
+        "./assets/akcija-pice-pomfrit/super akcija (5).png",
+        "./assets/akcija-pice-pomfrit/super akcija (6).png",
+        "./assets/akcija-pice-pomfrit/super akcija (7).png",
+        "./assets/akcija-pice-pomfrit/super akcija (8).png",
+        "./assets/akcija-pice-pomfrit/super akcija (9).png",
+        "./assets/akcija-pice-pomfrit/super akcija (10).png",
+        "./assets/akcija-pice-pomfrit/super akcija (11).png",
+        "./assets/akcija-pice-pomfrit/super akcija (12).png"
+    ]
+}
