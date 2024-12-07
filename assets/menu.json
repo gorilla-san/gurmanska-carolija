@@ -3,96 +3,90 @@
         {
             "name": "Mala pljeskavica",
             "size": "(100g)",
-            "price": 290,
+            "price": 300,
             "image": "assets/slike-hrane/Mala Pljeskavica.jpg"
         },
         {
             "name": "Srednja pljeskavica",
             "size": "(150g)",
-            "price": 340,
+            "price": 350,
             "image": "assets/slike-hrane/Srednja Pljeskavica.jpg"
         },
         {
             "name": "Velika pljeskavica",
             "size": "(200g)",
-            "price": 390,
+            "price": 400,
             "image": "assets/slike-hrane/Velika Pljeskavica.jpg"
         },
         {
             "name": "Punjena pljeskavica",
             "size": "(250g)",
             "description": "200g mesa, 30g kačkavalja, 20g šunke",
-            "price": 460,
+            "price": 480,
             "image": "assets/slike-hrane/Punjena Pljeskavica.jpg"
         },
         {
             "name": "Gurmanska pljeskavica",
             "size": "(250g)",
             "description": "200g mesa, 10g luka/tucana, 40g kačkavalj",
-            "price": 460,
+            "price": 480,
             "image": "assets/slike-hrane/Gurmanska Pljeskavica.jpg"
         },
         {
             "name": "Gurmanska čarolija",
             "size": "(300g)",
             "description": "200g mesa, 40g jaje, 30g suvi vrat , 40g kačkavalj",
-            "price": 500,
+            "price": 550,
             "image": "assets/slike-hrane/Gurmanska Carolija.jpg"
         },
         {
             "name": "Ćevapi",
             "size": "(150g)",
-            "price": 340,
+            "price": 350,
             "image": "assets/slike-hrane/Cevapi.jpg"
         },
         {
             "name": "Uštipci",
             "size": "(250g)",
             "description": "200g mesa, 5g peršun, 5g beli luk , 40g kačkavalj",
-            "price": 460,
+            "price": 480,
             "image": "assets/slike-hrane/Ustipci.jpg"
         },
         {
             "name": "Kobasica",
             "size": "(150g)",
-            "price": 350,
+            "price": 370,
             "image": "assets/slike-hrane/Kobasica.jpg"
         },
         {
             "name": "Batak",
             "size": "(200g)",
-            "price": 390,
+            "price": 420,
             "image": "assets/slike-hrane/Batak.jpg"
         },
         {
             "name": "Pileće belo",
             "size": "(200g)",
-            "price": 400,
+            "price": 430,
             "image": "assets/slike-hrane/Pilece Belo.jpg"
         },
         {
             "name": "Bela vešalica",
             "size": "(200g)",
-            "price": 500,
+            "price": 550,
             "image": "assets/slike-hrane/Bela Vesalica.jpg"
         },
         {
             "name": "Svinjski vrat",
             "size": "(200g)",
-            "price": 500,
+            "price": 550,
             "image": "assets/slike-hrane/Svinjski Vrat.jpg"
-        },
-        {
-            "name": "Hot dog",
-            "size": "(100g)",
-            "price": 250,
-            "image": "assets/slike-hrane/Hot Dog.jpg"
         },
         {
             "name": "Mešano meso",
             "size": "(1kg)",
             "description": "200g batak, 200g pileće belo, 200g roštiljske kobasice, 200g uštipci, 200g ćevapi",
-            "price": 1800,
+            "price": 2000,
             "image": "assets/slike-hrane/Mesano Meso.jpg"
         }
     ],
@@ -112,17 +106,26 @@
         {
             "name": "Coca Cola",
             "size": "(0.33l)",
-            "price": 120
+            "price": 120,
+            "image": "assets/slike-hrane/Coca-Cola.webp"
+        },
+        {
+            "name": "Coca Cola Zero",
+            "size": "(0.33l)",
+            "price": 120,
+            "image": "assets/slike-hrane/Coca-Cola Zero.webp"
         },
         {
             "name": "Schweppes",
             "size": "(0.33l)",
-            "price": 120
+            "price": 120,
+            "image": "assets/slike-hrane/Schweppes.webp"
         },
         {
             "name": "Fanta",
             "size": "(0.33l)",
-            "price": 120
+            "price": 120,
+            "image": "assets/slike-hrane/Fanta.webp"
         },
         {
             "name": "Rosa gazirana",

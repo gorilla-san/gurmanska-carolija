@@ -68,7 +68,7 @@ function updateContentDisplay(contentDivs) {
     const activeContent = document.getElementById(selectedContentId);
 
     if (activeContent) {
-        activeContent.style.display = "flex";
+        activeContent.style.display = "grid";
     }
 }
 
