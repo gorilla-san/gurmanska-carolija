@@ -97,9 +97,16 @@
             "price": 200
         },
         {
-            "name": "Lepinja / Somun",
+            "name": "Somun",
             "size": "",
-            "price": 60
+            "price": 60,
+            "image": "assets/slike-hrane/Somun.jpg"
+        },
+        {
+            "name": "Lepinja",
+            "size": "",
+            "price": 60,
+            "image": "assets/slike-hrane/Lepinja.jpg"
         }
     ],
     "piće": [
